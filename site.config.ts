@@ -14,10 +14,6 @@ export default siteConfig({
   author: 'Allen Zhang',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Tuomas',
-  socialImageSubtitle: 'Hello World! 👋',
-
   // social usernames (optional)
   twitter: 'chaoice3241',
   github: 'chaoice',
