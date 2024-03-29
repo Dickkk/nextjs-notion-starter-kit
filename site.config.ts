@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Allen 的博客',
+  name: 'Allen 的文章',
   domain: 'https://chaoice3240.notion.site/44692b67647a4c4ba3904081ecf488db',
   author: 'Allen Zhang',
 
